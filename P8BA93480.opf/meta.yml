@@ -1,0 +1,29 @@
+id: P8BA93480
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA27524
+  instance_id: http://purl.bdrc.io/resource/IE27524
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - དབུས་གཙང་གནས་ཡིག
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P706
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    d5e3f658bb6a48708b8a6289bf51a2e7:
+      title: པོད ༡་དབུས་གཙང་གནས་ཡིག
+      volume_number: 1
+      base_file: UT27524_4877_0000.txt
+      reference: http://purl.bdrc.io/resource/VL379FE3F71F8B50AA
+      image_group: '4877'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW27524
+  - http://purl.bdrc.io/resource/W27524
+  ocr_software: Namsel
+created_at: '2021-12-22T11:11:02.014552'
+last_modified_at: '2021-12-22T11:11:02.014558'
